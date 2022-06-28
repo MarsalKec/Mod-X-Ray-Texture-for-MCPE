@@ -1,0 +1,130 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+    "name": "Enhanced Biomes Addon",
+    "role": "From time to time, you need to update the appearance of Minecraft Bedrock so that the game does not bother. But typical tools are sometimes not enough, and standard texture packages and shaders do not give the desired effect. In this case, try the Enhanced Biomes addon! After installing it, each biome in the MCPE game will become better. The spawn of hills, trees, villages and other elements will change and become cooler! The player will have a greater chance of stumbling into hidden, atmospheric villages. And biome landscapes will bewitch the views. In addition, this addon contains shaders that will change the lighting and elaboration of the game world. If you look at the screenshot of Hell, you will understand how much the lighting will change.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhempat_desc.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/enhanced_biomes.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhtiga_desc.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/empatpuluhdua.png"
+    },
+    {
+    "name": "The Lighthouse",
+    "role": "You live in a Lighthouse. You have no one but yourself. Turtles come and sit on your island. You don�t have anything to do. Or do you? Is there any way you can beat the game without leaving your island? Download today to find out!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhdua_desc.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/l7THE 4LIGHTHOUSE.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhsatu_desc.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/empatpuluhsatu.png"
+  },
+  {
+    "name": "The Lighthouse",
+    "role": "You live in a Lighthouse. You have no one but yourself. Turtles come and sit on your island. You don�t have anything to do. Or do you? Is there any way you can beat the game without leaving your island? Download today to find out!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/empatpuluhsatu.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/l7THE 4LIGHTHOUSE.mcworld",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhsatu_desc.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhdua_desc.png"
+  }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ZOW9kpHfXTKBuoGP2XF7-mQuUqfTyUSL7qxKx3vG1UtpjF_aDHx6-g30UtvQb2qLuOpftbec9b0wUOJtbSzd8wTjOdSVCU4AIYBT",
+    "view_skin": "https://lh3.googleusercontent.com/iOyMDftXZr0uU5iaVmYz7SdVZ6hDtfROk1SrItZyulBXGWrzXi1wO8EZC9lfxl3jDx6eCVajXadx3LlmOrlOZ6iIDbXBKuIm7Q"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8yOfkMcQsnLKP1v4-iQ4SIIrrnT2GHWkhDXO9iU1a4qDLum0wAzwiso7WkPwmz17pd2oj7K6exuofzUNgMoFCQA11gE6bT2D_hUh",
+    "view_skin": "https://lh3.googleusercontent.com/DZCwbuVBS_onSeIwVsmRi53m1AyWBUQDdmZaPohf8xgCqK3OM3JxyBVGq4JsjVrt_ErWcW7GSull0VUK1doTyEdWCKXFUIWHvQ"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ZOW9kpHfXTKBuoGP2XF7-mQuUqfTyUSL7qxKx3vG1UtpjF_aDHx6-g30UtvQb2qLuOpftbec9b0wUOJtbSzd8wTjOdSVCU4AIYBT",
+    "view_skin": "https://lh3.googleusercontent.com/uJYVoZGK367h8aqzUDFnvjAP3Oh_Gl-h1sOk-MbZPSe7RCgs62ycyizIlH5EMnrVJfODLWxUwCIw2uQFvNCZkfek3_bUAY3kpQ"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/_jg1wd7ACvlpmeT9kep0r_mN2z4KSgbqle4Ig7ZI5r6hy-JtVpWw11XCuX0vKrgeC8fugZgFf8JpsT-yHzJ58UyfobvDQdxG9A",
+    "view_skin": "https://lh3.googleusercontent.com/QEl45iK0e17jlMyYojAloTpBigHW-2XdPG6VE67KSNz_PF_ogdKDZOvSKT1DM4bHg0iMQR68p27B8LTVFrzw2jwsXVTJlLO3Ng"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oxhcXEQWJSnrHreCgNME0m_be_ZotGtPtAbCvyyEOtYAKnTb8rHxRb7AYs2BlOL1nTe1flLA97ecMTKHV2QtGPntQaMo7LgmWxmP",
+    "view_skin": "https://lh3.googleusercontent.com/qNQQcwv924xO2qEmqXQrxRuGL6aSVYsBWSmiDTcUxCVVlj6lJ7eCZWCc12Zl3_rCKt7R58maaNWFrK_fc0JVjiyOyjTlz8GrqU0"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
